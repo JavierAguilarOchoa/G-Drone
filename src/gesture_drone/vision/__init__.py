@@ -1,0 +1,1 @@
+print("Initializing vision module for gesture_drone package")
